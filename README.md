@@ -4,7 +4,7 @@
 
 Welcome to the ultimate League of Legends Client tool. **DanZ Client Tool** provides a comprehensive suite of features to manage your client, automate tasks, and customize your profile.
 
-### 🎮 Game Control
+### Game Control
 *   **Lobby Manager**:
     *   Create lobbies for any game mode (Quickplay, Draft, Solo/Duo, Flex, ARAM, Arena, Practice Tool).
     *   Set Primary and Secondary role preferences automatically.
@@ -22,7 +22,7 @@ Welcome to the ultimate League of Legends Client tool. **DanZ Client Tool** prov
     *   
 <img width="1094" height="695" alt="image" src="https://github.com/user-attachments/assets/5e8f8989-f147-4fe1-9f1b-c2f471bd9553" />
 
-### 👤 Profile Manager
+### Profile Manager
 *   **Identity Manager**:
     *   **Status Message**: Update your status message instantly.
     *   **Availability**: Set status to Online, Mobile, Away, or Offline.
@@ -38,7 +38,7 @@ Welcome to the ultimate League of Legends Client tool. **DanZ Client Tool** prov
     *   **Clear Badges**: Remove all equipped challenge badges.
 <img width="1094" height="691" alt="image" src="https://github.com/user-attachments/assets/b5a998ff-1d03-4550-a120-07afd897ff3b" />
 
-### 📦 Loot Manager
+### Loot Manager
 *   **Mass Disenchant**:
     *   View all Champion and Skin shards.
     *   See total Blue Essence (BE) and Orange Essence (OE) values.
@@ -46,23 +46,23 @@ Welcome to the ultimate League of Legends Client tool. **DanZ Client Tool** prov
     *   Disenchant selected items in bulk with one click.
 <img width="1101" height="697" alt="image" src="https://github.com/user-attachments/assets/4415e47e-bda5-4e48-a2e3-3fba029f31fc" />
 
-### 👥 Account Manager
+### Account Manager
 *   **Account Storage**: Save multiple accounts locally (Username, Password, Note).
 *   **Stats Pull**: Fetch current account stats (Rank, Level, BE, RP, Skins) from the connected client.
 *   **Kill League**: Force close all League of Legends processes instantly.
 <img width="1092" height="697" alt="image" src="https://github.com/user-attachments/assets/2c0be823-264c-44b1-8306-7124b2574eb3" />
 
-### 🏆 Champion Viewer
+### Champion Viewer
 *   View all owned champions in a sortable table.
 *   See Mastery Level, Mastery Points, and if a Chest has been earned.
 *   Search and filter champions by name.
 
-### 🎨 Skin Collection
+### Skin Collection
 *   View your entire skin collection.
 *   Search and filter skins.
 *   Preview splash art and tile images.
 
-### 🛠️ Misc Tools
+### Misc Tools
 *   **Client Control**: Restart the Client UX or Close the Client entirely.
 *   **Social**:
     *   **Accept All** friend requests.
@@ -75,18 +75,18 @@ Welcome to the ultimate League of Legends Client tool. **DanZ Client Tool** prov
     *   **Champion Lookup**: Find Champion ID by name.
     *   **Riot ID Changer**: Change your Game Name and Tag Line.
 
-### 🔌 Custom Requests
+### Custom Requests
 *   **HTTP Builder**: comprehensive request builder for LCU, Riot Client, Store, and League Edge APIs.
 *   **LCDS Invoke**: Interface for invoking LCDS (RTMP) service methods.
 <img width="1095" height="695" alt="image" src="https://github.com/user-attachments/assets/d5644c3d-e10d-4096-b66c-271306b3a13f" />
 
 ---
 
-## 🇨🇳 Chinese (中文)
+## Chinese (中文)
 
 欢迎使用终极英雄联盟客户端工具。**DanZ Client Tool** 提供了一套全面的功能来管理您的客户端、自动化任务和自定义您的个人资料。
 
-### 🎮 游戏控制 (Game Control)
+### 游戏控制 (Game Control)
 *   **房间管理**:
     *   创建任意模式的房间（快速游戏、征召模式、单双排、灵活组排、大乱斗、竞技场、训练模式）。
     *   自动设置首选和次选位置。
@@ -102,7 +102,7 @@ Welcome to the ultimate League of Legends Client tool. **DanZ Client Tool** prov
     *   **阵营显示**: 在选人阶段查看您是在**蓝色方**还是**红色方**。
     *   **瞬间消息**: 进入房间时自动发送自定义聊天消息（例如“上单预选”）。
 
-### 👤 个人资料管理 (Profile Manager)
+### 个人资料管理 (Profile Manager)
 *   **身份管理**:
     *   **状态消息**: 立即更新您的状态签名。
     *   **在线状态**: 设置为在线、手机在线、离开或离线。
@@ -117,29 +117,29 @@ Welcome to the ultimate League of Legends Client tool. **DanZ Client Tool** prov
     *   **克隆徽章**: 将第一个挑战徽章克隆到所有3个槽位。
     *   **清除徽章**: 移除所有装备的挑战徽章。
 
-### 📦 战利品管理 (Loot Manager)
+### 战利品管理 (Loot Manager)
 *   **批量分解**:
     *   查看所有英雄碎片和皮肤碎片。
     *   查看蓝色精萃 (BE) 和橙色精萃 (OE) 总价值。
     *   **全选**或手动选择特定物品。
     *   一键批量分解选中物品。
 
-### 👥 账号管理 (Account Manager)
+### 账号管理 (Account Manager)
 *   **账号存储**: 本地保存多个账号（用户名、密码、备注）。
 *   **拉取数据**: 从已连接的客户端获取当前账号数据（段位、等级、BE、RP、皮肤数量）。
 *   **结束进程**: 瞬间强制关闭所有英雄联盟进程。
 
-### 🏆 英雄查看器 (Champion Viewer)
+### 英雄查看器 (Champion Viewer)
 *   在可排序的表格中查看所有已拥有的英雄。
 *   查看成就等级、成就点数以及是否已获得宝箱。
 *   按名称搜索和过滤英雄。
 
-### 🎨 皮肤收藏 (Skin Collection)
+### 皮肤收藏 (Skin Collection)
 *   查看您的完整皮肤收藏。
 *   搜索和过滤皮肤。
 *   预览原画和切片图像。
 
-### 🛠️ 其他工具 (Misc Tools)
+### 其他工具 (Misc Tools)
 *   **客户端控制**: 重启客户端界面 (UX) 或完全关闭客户端。
 *   **社交**:
     *   **接受所有**好友请求。
@@ -152,17 +152,17 @@ Welcome to the ultimate League of Legends Client tool. **DanZ Client Tool** prov
     *   **英雄查询**: 按名称查找英雄 ID。
     *   **改名**: 修改您的游戏名称和标签。
 
-### 🔌 自定义请求 (Custom Requests)
+### 自定义请求 (Custom Requests)
 *   **HTTP 构建器**: 针对 LCU、Riot Client、Store 和 League Edge API 的全面请求构建器。
 *   **LCDS 调用**: 调用 LCDS (RTMP) 服务方法的接口。
 
 ---
 
-## 🇧🇷 Português (BR)
+## Português (BR)
 
 Bem-vindo à ferramenta definitiva para o cliente de League of Legends. **DanZ Client Tool** oferece um conjunto completo de recursos para gerenciar seu cliente, automatizar tarefas e personalizar seu perfil.
 
-### 🎮 Controle de Jogo
+### Controle de Jogo
 *   **Gerenciador de Lobby**:
     *   Crie lobbies para qualquer modo de jogo (Quickplay, Draft, Solo/Duo, Flex, ARAM, Arena, Treino).
     *   Defina preferências de rota Primária e Secundária automaticamente.
@@ -178,7 +178,7 @@ Bem-vindo à ferramenta definitiva para o cliente de League of Legends. **DanZ C
     *   **Revelar Lado**: Veja se você está no **Lado Azul** ou **Lado Vermelho** durante a seleção.
     *   **Mensagem Instantânea**: Envie uma mensagem de chat personalizada (ex: "Mid pref") instantaneamente ao entrar.
 
-### 👤 Gerenciador de Perfil
+### Gerenciador de Perfil
 *   **Gerenciador de Identidade**:
     *   **Mensagem de Status**: Atualize sua mensagem de status instantaneamente.
     *   **Disponibilidade**: Defina o status como Online, Mobile, Ausente ou Offline.
@@ -193,29 +193,29 @@ Bem-vindo à ferramenta definitiva para o cliente de League of Legends. **DanZ C
     *   **Clonar Emblema**: Clone seu primeiro emblema de desafio para os 3 slots.
     *   **Limpar Emblemas**: Remova todos os emblemas equipados.
 
-### 📦 Gerenciador de Espólios
+### Gerenciador de Espólios
 *   **Desencantar em Massa**:
     *   Visualize todos os fragmentos de Campeão e Skin.
     *   Veja o valor total em Essência Azul (EA) e Essência Laranja (EL).
     *   **Selecionar Tudo** ou selecionar itens manualmente.
     *   Desencante itens selecionados em massa com um clique.
 
-### 👥 Gerenciador de Contas
+### Gerenciador de Contas
 *   **Armazenamento de Contas**: Salve várias contas localmente (Usuário, Senha, Nota).
 *   **Puxar Stats**: Busque dados da conta atual (Elo, Nível, EA, RP, Skins) do cliente conectado.
 *   **Kill League**: Feche forçadamente todos os processos do League of Legends instantaneamente.
 
-### 🏆 Visualizador de Campeões
+### Visualizador de Campeões
 *   Visualize todos os campeões adquiridos em uma tabela ordenável.
 *   Veja Nível de Maestria, Pontos e se um Baú foi ganho.
 *   Pesquise e filtre campeões por nome.
 
-### 🎨 Coleção de Skins
+### Coleção de Skins
 *   Visualize sua coleção completa de skins.
 *   Pesquise e filtre skins.
 *   Pré-visualize a arte e os ícones das skins.
 
-### 🛠️ Ferramentas Diversas
+### Ferramentas Diversas
 *   **Controle do Cliente**: Reinicie a interface (UX) ou feche o cliente completamente.
 *   **Social**:
     *   **Aceitar Todos** os pedidos de amizade.
@@ -228,17 +228,17 @@ Bem-vindo à ferramenta definitiva para o cliente de League of Legends. **DanZ C
     *   **Busca de Campeão**: Encontre o ID do campeão pelo nome.
     *   **Alterar Riot ID**: Mude seu Nome de Jogo e Tag.
 
-### 🔌 Requisições Customizadas
+### Requisições Customizadas
 *   **Construtor HTTP**: Construtor de requisições completo para APIs do LCU, Riot Client, Store e League Edge.
 *   **LCDS Invoke**: Interface para invocar métodos de serviço LCDS (RTMP).
 
 ---
 
-## 🇹🇷 Türkçe
+## Türkçe
 
 Nihai League of Legends İstemci aracına hoş geldiniz. **DanZ Client Tool**, istemcinizi yönetmek, görevleri otomatikleştirmek ve profilinizi özelleştirmek için kapsamlı bir özellik paketi sunar.
 
-### 🎮 Oyun Kontrolü
+### Oyun Kontrolü
 *   **Lobi Yöneticisi**:
     *   Herhangi bir oyun modu için lobi oluşturun (Hızlı Oyun, Sıralı Seçim, Tek/Çift, Esnek, ARAM, Arena, Antrenman Modu).
     *   Birincil ve İkincil rol tercihlerini otomatik olarak ayarlayın.
@@ -254,7 +254,7 @@ Nihai League of Legends İstemci aracına hoş geldiniz. **DanZ Client Tool**, i
     *   **Taraf Göster**: Seçim sırasında **Mavi Taraf** mı yoksa **Kırmızı Taraf** mı olduğunuzu görün.
     *   **Anında Mesaj**: Lobiye katıldığınızda anında özel bir sohbet mesajı (örn. "Solo sal") gönderin.
 
-### 👤 Profil Yöneticisi
+### Profil Yöneticisi
 *   **Kimlik Yöneticisi**:
     *   **Durum Mesajı**: Durum mesajınızı anında güncelleyin.
     *   **Görünürlük**: Durumu Çevrimiçi, Mobilde, Uzakta veya Çevrimdışı olarak ayarlayın.
@@ -269,29 +269,29 @@ Nihai League of Legends İstemci aracına hoş geldiniz. **DanZ Client Tool**, i
     *   **Rozet Klonla**: İlk meydan okuma rozetinizi 3 yuvaya da klonlayın.
     *   **Rozetleri Temizle**: Tüm takılı rozetleri kaldırın.
 
-### 📦 Ganimet Yöneticisi
+### Ganimet Yöneticisi
 *   **Toplu Ayrıştırma**:
     *   Tüm Şampiyon ve Kostüm kristallerini görüntüleyin.
     *   Toplam Mavi Öz (MÖ) ve Turuncu Öz (TÖ) değerlerini görün.
     *   **Tümünü Seç** veya belirli öğeleri manuel olarak seçin.
     *   Seçili öğeleri tek tıklamayla toplu olarak ayrıştırın.
 
-### 👥 Hesap Yöneticisi
+### Hesap Yöneticisi
 *   **Hesap Depolama**: Birden fazla hesabı yerel olarak kaydedin (Kullanıcı Adı, Şifre, Not).
 *   **İstatistik Çek**: Bağlı istemciden güncel hesap istatistiklerini (Rütbe, Seviye, MÖ, RP, Kostümler) getirin.
 *   **League'i Kapat**: Tüm League of Legends işlemlerini anında zorla kapatın.
 
-### 🏆 Şampiyon Görüntüleyici
+### Şampiyon Görüntüleyici
 *   Sahip olunan tüm şampiyonları sıralanabilir bir tabloda görüntüleyin.
 *   Ustalık Seviyesi, Puanları ve Sandık kazanılıp kazanılmadığını görün.
 *   Şampiyonları isme göre arayın ve filtreleyin.
 
-### 🎨 Kostüm Koleksiyonu
+### Kostüm Koleksiyonu
 *   Tüm kostüm koleksiyonunuzu görüntüleyin.
 *   Kostümleri arayın ve filtreleyin.
 *   Yükleme ekranı ve karo görsellerini önizleyin.
 
-### 🛠️ Çeşitli Araçlar
+### Çeşitli Araçlar
 *   **İstemci Kontrolü**: İstemci arayüzünü (UX) yeniden başlatın veya İstemciyi tamamen kapatın.
 *   **Sosyal**:
     *   **Tümünü Kabul Et**: Tüm arkadaşlık isteklerini kabul et.
@@ -304,17 +304,17 @@ Nihai League of Legends İstemci aracına hoş geldiniz. **DanZ Client Tool**, i
     *   **Şampiyon Arama**: İsme göre Şampiyon ID'sini bulun.
     *   **Riot ID Değiştir**: Oyun İd ve Etiketinizi değiştirin.
 
-### 🔌 Özel İstekler
+### Özel İstekler
 *   **HTTP Oluşturucu**: LCU, Riot Client, Store ve League Edge API'leri için kapsamlı istek oluşturucu.
 *   **LCDS Invoke**: LCDS (RTMP) servis yöntemlerini çağırmak için arayüz.
 
 ---
 
-## 🇩🇪 German (Deutsch)
+## German (Deutsch)
 
 Willkommen beim ultimativen League of Legends-Client-Tool. **DanZ Client Tool** bietet eine umfassende Suite von Funktionen zur Verwaltung Ihres Clients, zur Automatisierung von Aufgaben und zur Anpassung Ihres Profils.
 
-### 🎮 Spielsteuerung (Game Control)
+### Spielsteuerung (Game Control)
 *   **Lobby-Manager**:
     *   Erstellen Sie Lobbys für jeden Spielmodus (Quickplay, Draft, Solo/Duo, Flex, ARAM, Arena, Übungsmodus).
     *   Legen Sie primäre und sekundäre Rollenpräferenzen automatisch fest.
@@ -330,7 +330,7 @@ Willkommen beim ultimativen League of Legends-Client-Tool. **DanZ Client Tool** 
     *   **Seite enthüllen**: Sehen Sie während der Auswahl, ob Sie auf der **blauen Seite** oder **roten Seite** sind.
     *   **Sofortnachricht**: Senden Sie beim Beitritt zu einer Lobby sofort eine benutzerdefinierte Chat-Nachricht (z. B. "Top Pref").
 
-### 👤 Profil-Manager
+### Profil-Manager
 *   **Identitätsmanager**:
     *   **Statusnachricht**: Aktualisieren Sie Ihre Statusnachricht sofort.
     *   **Verfügbarkeit**: Setzen Sie den Status auf Online, Mobil, Abwesend oder Offline.
@@ -345,29 +345,29 @@ Willkommen beim ultimativen League of Legends-Client-Tool. **DanZ Client Tool** 
     *   **Abzeichen klonen**: Klonen Sie Ihr erstes Herausforderungsabzeichen auf alle 3 Slots.
     *   **Abzeichen löschen**: Entfernen Sie alle ausgerüsteten Herausforderungsabzeichen.
 
-### 📦 Beute-Manager (Loot Manager)
+### Beute-Manager (Loot Manager)
 *   **Massen-Entzauberung**:
     *   Zeigen Sie alle Champion- und Skin-Splitter an.
     *   Sehen Sie den Gesamtwert von Blauer Essenz (BE) und Orangener Essenz (OE).
     *   **Alles auswählen** oder bestimmte Gegenstände manuell auswählen.
     *   Entzaubern Sie ausgewählte Gegenstände massenhaft mit einem Klick.
 
-### 👥 Kontomanager
+### Kontomanager
 *   **Kontospeicherung**: Speichern Sie mehrere Konten lokal (Benutzername, Passwort, Notiz).
 *   **Statistiken abrufen**: Rufen Sie aktuelle Kontodaten (Rang, Level, BE, RP, Skins) vom verbundenen Client ab.
 *   **League beenden**: Schließen Sie alle League of Legends-Prozesse sofort zwangsweise.
 
-### 🏆 Champion-Ansicht
+### Champion-Ansicht
 *   Zeigen Sie alle eigenen Champions in einer sortierbaren Tabelle an.
 *   Sehen Sie Meisterschaftslevel, Punkte und ob eine Truhe verdient wurde.
 *   Suchen und filtern Sie Champions nach Namen.
 
-### 🎨 Skin-Sammlung
+### Skin-Sammlung
 *   Zeigen Sie Ihre gesamte Skin-Sammlung an.
 *   Suchen und filtern Sie Skins.
 *   Vorschau von Splash-Art und Kachelbildern.
 
-### 🛠️ Sonstige Tools
+### Sonstige Tools
 *   **Client-Steuerung**: Starten Sie die Benutzeroberfläche (UX) neu oder schließen Sie den Client vollständig.
 *   **Soziales**:
     *   **Alle akzeptieren**: Alle Freundschaftsanfragen akzeptieren.
@@ -380,6 +380,84 @@ Willkommen beim ultimativen League of Legends-Client-Tool. **DanZ Client Tool** 
     *   **Champion-Suche**: Finden Sie die Champion-ID anhand des Namens.
     *   **Riot-ID ändern**: Ändern Sie Ihren Spielnamen und Tag.
 
-### 🔌 Benutzerdefinierte Anfragen
+### Benutzerdefinierte Anfragen
 *   **HTTP-Builder**: Umfassender Anfrage-Builder für LCU-, Riot-Client-, Store- und League-Edge-APIs.
+*   **LCDS Invoke**: Schnittstelle zum Aufrufen von LCDS (RTMP)-Dienstmethoden.
+
+---
+
+## Polish (Polski)
+
+Witamy w najlepszym narzedziu dla klienta League of Legends. **DanZ Client Tool** zapewnia kompleksowy zestaw funkcji do zarzadzania klientem, automatyzacji zadan i dostosowywania profilu.
+
+### Kontrola Gry (Game Control)
+*   **Menedzer Lobby**:
+    *   Tw�rz lobby dla dowolnego trybu gry (Szybka Gra, Draft, Solo/Duo, Flex, ARAM, Arena, Trening).
+    *   Automatycznie ustaw preferencje gl�wnej i drugorzednej roli.
+    *   Szybkie 'Znajdz Mecz' lub 'Opusc Kolejke' jednym kliknieciem.
+*   **Automatyzacja Wyboru Bohatera**:
+    *   **Instalock**: Automatycznie wybierz pozadanego bohatera (lub Losowego). Zawiera regulowane **Op�znienie**.
+    *   **Auto Ban**: Automatycznie zbanuj okreslonego bohatera lub wybierz 'Brak'. Zawiera regulowane **Op�znienie**.
+    *   **Zapasowy Wyb�r**: Wybierz drugiego bohatera, jesli Tw�j gl�wny jest zbanowany lub zajety.
+    *   **Inteligentny Unik**: Opcja automatycznego wyjscia z lobby, jesli Tw�j bohater jest zbanowany/zajety.
+*   **Narzedzia Automatyzacji**:
+    *   **Auto Akceptacja**: Automatycznie akceptuj powiadomienie o znalezieniu meczu.
+    *   **Natychmiastowe Wyciszenie**: Wycisz wszystkich graczy natychmiast po wejsciu do lobby.
+    *   **Pokaz Strone**: Zobacz, czy jestes po **Niebieskiej Stronie**, czy **Czerwonej Stronie** podczas wyboru.
+    *   **Natychmiastowa Wiadomosc**: Wyslij niestandardowa wiadomosc na czacie (np. 'Top pref') natychmiast po dolaczeniu do lobby.
+
+### Menedzer Profilu (Profile Manager)
+*   **Menedzer Tozsamosci**:
+    *   **Wiadomosc Statusu**: Zaktualizuj swoja wiadomosc statusu natychmiast.
+    *   **Dostepnosc**: Ustaw status na Online, Mobilny, Zaraz wracam lub Offline.
+    *   **Ikona Profilu**: Przegladaj, szukaj i ustaw dowolna ikone profilu.
+    *   **Tlo Profilu**: Ustaw swoje tlo na DOWOLNEGO bohatera i sk�rke.
+    *   **Kontrola Czatu**: Rozlacz lub polacz sie z serwerem czatu w dowolnym momencie.
+*   **Spoofer Profilu (Tylko wizualnie)**:
+    *   **Spoof Rangi**: Zmien widoczna Range, Krag, Dywizje i PL dla dowolnej kolejki.
+    *   **Spoof Statystyk**: Ustaw niestandardowy Wynik Maestrii, Krysztalowa Range i Punkty Wyzwan.
+*   **Dodatki Wyzwan**:
+    *   **Niewidoczny Baner**: Usun sw�j baner wyzwan.
+    *   **Sklonuj Odznake**: Sklonuj swoja pierwsza odznake wyzwan na wszystkie 3 sloty.
+    *   **Wyczysc Odznaki**: Usun wszystkie wyposazone odznaki wyzwan.
+
+### Menedzer Lup�w (Loot Manager)
+*   **Masowe Rozmienianie**:
+    *   Zobacz wszystkie odlamki Bohater�w i Sk�rek.
+    *   Zobacz calkowita wartosc Niebieskiej Esencji (NE) i Pomaranczowej Esencji (PE).
+    *   **Wybierz Wszystko** lub recznie wybierz konkretne przedmioty.
+    *   Rozmien wybrane przedmioty masowo jednym kliknieciem.
+
+### Menedzer Kont (Account Manager)
+*   **Przechowywanie Kont**: Zapisz wiele kont lokalnie (Nazwa uzytkownika, Haslo, Notatka).
+*   **Pobieranie Statystyk**: Pobierz aktualne statystyki konta (Ranga, Poziom, NE, RP, Sk�rki) z podlaczonego klienta.
+*   **Zabij League**: Wymus natychmiastowe zamkniecie wszystkich proces�w League of Legends.
+
+### Przegladarka Bohater�w (Champion Viewer)
+*   Zobacz wszystkich posiadanych bohater�w w sortowalnej tabeli.
+*   Zobacz Poziom Maestrii, Punkty i czy zdobyto Skrzynie.
+*   Wyszukuj i filtruj bohater�w wedlug nazwy.
+
+### Kolekcja Sk�rek (Skin Collection)
+*   Zobacz swoja pelna kolekcje sk�rek.
+*   Wyszukuj i filtruj sk�rki.
+*   Podglad grafik i kafelk�w.
+
+### R�zne Narzedzia (Misc Tools)
+*   **Kontrola Klienta**: Zrestartuj interfejs klienta (UX) lub calkowicie zamknij klienta.
+*   **Spolecznosc**:
+    *   **Akceptuj Wszystkie** zaproszenia do znajomych.
+    *   **Usun Wszystkie** zaproszenia do znajomych.
+    *   **Czyszczenie Grupy**: Usun wszystkich znajomych z okreslonego folderu/grupy.
+*   **Narzedzia Lup�w**:
+    *   **Rozmienianie Kategorii**: Masowe rozmienianie okreslonych kategorii (Emotki, Totemy, Ikony, Patronowie).
+    *   **Zwrot**: Zwr�c sw�j ostatni mozliwy do zwrotu zakup lokalnie.
+*   **Narzedzia**:
+    *   **Wyszukiwanie Bohatera**: Znajdz ID Bohatera po nazwie.
+    *   **Zmiana Riot ID**: Zmien swoja Nazwe w Grze i Tag.
+
+### Wlasne Zapytania (Custom Requests)
+*   **Kreator HTTP**: Kompleksowy kreator zapytan dla API LCU, Riot Client, Store i League Edge.
+*   **Wywolanie LCDS**: Interfejs do wywolywania metod uslug LCDS (RTMP).
+
 *   **LCDS Invoke**: Schnittstelle zum Aufrufen von LCDS (RTMP)-Dienstmethoden.
