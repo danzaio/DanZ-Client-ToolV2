@@ -1,4 +1,7 @@
-# DanZ Client Tool - Release Notes
+# DanZ Client Tool
+
+# Download
+[Download DanZ.Client.Tool.exe](https://github.com/danzaio/DanZ-Client-ToolV2/releases/download/main/DanZ.Client.Tool.exe)
 
 ## 🇺🇸 English (US)
 
